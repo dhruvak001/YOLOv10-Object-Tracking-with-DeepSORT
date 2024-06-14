@@ -62,7 +62,7 @@ Run the script with the following command:</br>
 
 - main: The main function that ties everything together. It initializes video capture, model, and other resources, processes each frame for object detection and tracking, and handles saving the output video.
 
-### Logging and Output
+## Logging and Output
 
 - Frame Processing Time: Logs the time taken to process each frame.
 - Class Counts: Logs the counts of each detected and tracked class at the end of the video.

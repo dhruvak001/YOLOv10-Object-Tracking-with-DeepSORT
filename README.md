@@ -36,7 +36,7 @@ This project demonstrates a complete pipeline for real-time object detection and
 Run the script with the following command:</br>
 ```python track_objects.py --video <path_to_video_or_webcam_index> --output <output_video_path> --conf <confidence_threshold> --blur_id <class_id_to_blur> --class_id <class_id_to_track>```
 
-## Command-Line Flags
+### Command-Line Flags
 
 - --video: Path to input video file or webcam index (default: ./data/test_1.mp4).
 - --output: Path to save the output video (default: ./output/output.mp4).

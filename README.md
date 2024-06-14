@@ -23,6 +23,6 @@ This project demonstrates a complete pipeline for real-time object detection and
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:</br>
    ```git clone https://github.com/your_username/yolo_deepsort.git```</br>
   ```cd yolo_deepsort```

@@ -2,7 +2,7 @@
 
 This project demonstrates a complete pipeline for real-time object detection and tracking using YOLOv10 and DeepSORT. It processes video input, detects objects, tracks them across frames, and provides optional blurring for specific object classes.
 
-## Features
+### Features
 
 - Object Detection: Utilizes YOLOv10 for high-accuracy real-time object detection.
 - Object Tracking: Employs DeepSORT for robust multi-object tracking.

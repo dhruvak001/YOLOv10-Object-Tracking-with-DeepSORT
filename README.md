@@ -31,4 +31,10 @@ This project demonstrates a complete pipeline for real-time object detection and
 3.   Clone the repository (In the integrated folder you created):</br>
    ```git clone https://github.com/your_username/yolo_deepsort.git```
 
+## Usuage
+
+Run the script with the following command:</br>
+```python track_objects.py --video <path_to_video_or_webcam_index> --output <output_video_path> --conf <confidence_threshold> --blur_id <class_id_to_blur> --class_id <class_id_to_track>```
+
+
 

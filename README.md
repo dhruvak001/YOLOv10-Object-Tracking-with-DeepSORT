@@ -13,7 +13,7 @@ This project demonstrates a complete pipeline for real-time object detection and
 
 ### Requirements
 
-- Python 3.x
+- Python >= python3.9
 - OpenCV
 - PyTorch
 - NumPy
